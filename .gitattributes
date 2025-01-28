@@ -1,0 +1,3 @@
+4th-Year-FYP/** filter=lfs diff=lfs merge=lfs -text
+VCA_FYP/Plugins/ACEUnrealPlugin-UE5.4-2.3.0/NV_ACE_Reference/Source/ThirdParty/Nvaim/Binaries/Linux/*.12 filter=lfs diff=lfs merge=lfs -text
+VCA_FYP/Plugins/ACEUnrealPlugin-UE5.4-2.3.0/NV_ACE_Reference/Source/ThirdParty/Nvaim/Models/nvaim.plugin.gpt.ggml/{8E31808B-C182-4016-9ED8-64804FF5B40D}/*.gguf filter=lfs diff=lfs merge=lfs -text
