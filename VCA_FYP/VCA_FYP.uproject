@@ -56,10 +56,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MasterHttpRequest",
-			"Enabled": true
-		},
-		{
 			"Name": "WMFCodecs",
 			"Enabled": false,
 			"SupportedTargetPlatforms": [
@@ -67,9 +63,8 @@
 			]
 		},
 		{
-			"Name": "SimpleHttpServer",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/Fab/product/6aebc9b3-f3fb-4904-96ef-40e78b2e7b99"
+			"Name": "VaRest",
+			"Enabled": true
 		}
 	]
 }
