@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-VCA_FYP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"U:\GitHub\4th-Year-FYP\VCA_FYP\Intermediate\Build\Win64\x64\VCA_FYPEditor\Development\Core\SharedPCH.Core.Project.ValApi.Cpp20.h.obj"
+"U:\GitHub\4th-Year-FYP\VCA_FYP\Intermediate\Build\Win64\x64\UnrealEditor\Development\VCA_FYP\VCA_FYP.cpp.obj"
+"U:\GitHub\4th-Year-FYP\VCA_FYP\Intermediate\Build\Win64\x64\UnrealEditor\Development\VCA_FYP\Default.rc2.res"
+/OUT:"U:\GitHub\4th-Year-FYP\VCA_FYP\Intermediate\Build\Win64\x64\UnrealEditor\Development\VCA_FYP\UnrealEditor-VCA_FYP.lib"

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "u:\\github\\4th-year-fyp\\vca_fyp\\intermediate\\source\\vca_fyp.cpp",
+        "ProvidedModule": "",
+        "PCH": "u:\\github\\4th-year-fyp\\vca_fyp\\intermediate\\build\\win64\\x64\\vca_fypeditor\\development\\core\\sharedpch.core.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "u:\\github\\4th-year-fyp\\vca_fyp\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\vca_fyp\\definitions.vca_fyp.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

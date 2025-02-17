@@ -1,0 +1,27 @@
+{
+	"SourceFiles": [
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\A2FRemote\\A2FRemote.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ACECore\\ACECore.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ACEEditor\\ACEEditor.build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ACEGraphNode\\ACEGraphNode.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ACERuntime\\ACERuntime.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\AIMWrapper\\AIMWrapper.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\AnimStream\\AnimStream.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\GPTLocal\\GPTLocal.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\LegacyA2FRemote\\LegacyA2FRemote.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\OmniverseAudioMixer\\OmniverseAudioMixer.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\OmniverseLiveLink\\OmniverseLiveLink.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ThirdParty\\Nvacl\\Nvacl.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ThirdParty\\Nvaim\\Nvaim.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\EasyJwt\\EasyJwt.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\JwtGenerator\\JwtGenerator.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\JwtVerifier\\JwtVerifier.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\ThirdParty\\JwtCpp\\JwtCpp.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYP.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYP.Target.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYPClient.Target.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYPEditor.Target.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYPServer.Target.cs"
+	],
+	"EngineVersion": "5.4.3"
+}
