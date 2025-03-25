@@ -1,0 +1,80 @@
+#########################################################################
+
+-POST-
+
+URL-> http://localhost:8011/A2F/USD/Load (load USD file into stage)
+
+Content Type-> application/json
+
+Body->
+{
+  "file_name": "U:/GitHub/4th-Year-FYP/VCA_FYP/Speech/A2F_Speech.usd"
+}
+
+#########################################################################
+
+-POST-
+
+URL-> http://localhost:8011/A2F/Player/SetRootPath (Set root folder for audio)
+
+Content Type-> application/json
+
+Body->
+{
+  "a2f_player": "/World/audio2face/Player",
+  "dir_path": "U:/GitHub/4th-Year-FYP/VCA_FYP/Speech"
+}
+
+#########################################################################
+
+-POST-
+
+URL-> http://localhost:8011/A2F/Player/SetTrack (sets .wav file as active audio track)
+
+Content Type-> application/json
+
+Body->
+{
+  "a2f_player": "/World/audio2face/Player",
+  "file_name": "Speech.wav"
+}
+
+#########################################################################
+
+-POST-
+
+URL-> http://localhost:8011/A2F/Exporter/ActivateStreamLivelink (Activates Livelink streaming for UE)
+
+Content Type-> application/json
+
+Body->
+{
+  "node_path": "/World/audio2face/StreamLivelink",
+  "value": true
+}
+
+#########################################################################
+
+-POST-
+
+URL-> http://localhost:8011/A2F/Player/Play (Starts playing current track)
+
+Content Type-> application/json
+
+Body->
+{
+  "a2f_player": "/World/audio2face/Player"
+}
+
+#########################################################################
+
+-POST-
+
+URL-> http://localhost:8011/A2F/A2E/GenerateKeys (generates emotion keys automatically)
+
+Content Type-> application/json
+
+Body->
+{
+  "a2f_instance": "/World/audio2face/CoreFullface"
+}

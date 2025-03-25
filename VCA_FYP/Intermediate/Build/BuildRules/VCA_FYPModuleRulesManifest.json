@@ -13,15 +13,20 @@
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\OmniverseLiveLink\\OmniverseLiveLink.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ThirdParty\\Nvacl\\Nvacl.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\ACEUnrealPlugin-UE5.4-2.3.0\\NV_ACE_Reference\\Source\\ThirdParty\\Nvaim\\Nvaim.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\Bridge\\Source\\Bridge\\Bridge.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\Bridge\\Source\\MegascansPlugin\\MegascansPlugin.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\FileSDK\\Source\\FileSDK\\FileSDK.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\EasyJwt\\EasyJwt.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\JwtGenerator\\JwtGenerator.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\JwtVerifier\\JwtVerifier.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\UE-EasyJWT-2023.06.02\\Source\\ThirdParty\\JwtCpp\\JwtCpp.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\VaRestRee7145bf0b1deV3\\Source\\VaRestEditor\\VaRestEditor.Build.cs",
+		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Plugins\\VaRestRee7145bf0b1deV3\\Source\\VaRest\\VaRest.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYP.Build.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYP.Target.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYPClient.Target.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYPEditor.Target.cs",
 		"U:\\GitHub\\4th-Year-FYP\\VCA_FYP\\Intermediate\\Source\\VCA_FYPServer.Target.cs"
 	],
-	"EngineVersion": "5.4.3"
+	"EngineVersion": "5.5.3"
 }
